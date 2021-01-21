@@ -13,6 +13,8 @@ For each framework, the following information can be compared:
 
 The dashboard is a Vue app utilizing [BootstrapVue](https://bootstrap-vue.org/) styling and all stats are retrieved from the [GitHub API](https://docs.github.com/v3/) using an [axios](https://github.com/axios/axios) integration for HTTP requests. All requests are made without a page refresh, utilizing Vue's reactive two way binding tendencies to pull updated data into the DOM in real time. 
 
+## Check It Out!
+This [Frontend Framework Dashboard](https://frontend-framework-dashboard.onrender.com/) is hosted on render.
 
 ## Project setup
 ```
